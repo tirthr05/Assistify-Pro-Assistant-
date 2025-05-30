@@ -1,6 +1,6 @@
 🚀 **Assistify Pro Assistant** – The Ultimate Voice-Activated Virtual Assistant 🤖
 
-Prepare to embark on an exhilarating journey with **Assistify Pro Assistant**, a cutting-edge, AI-powered voice-activated virtual assistant! Harnessing the raw power of Python and OpenAI’s GPT-3.5-turbo, Assistify Pro Assistant transcends the ordinary to deliver a truly transformative user experience. 🔥
+Prepare to embark on an exhilarating journey with **Assistify Pro Assistant**, a cutting-edge, AI-powered voice-activated virtual assistant! Harnessing the raw power of Python and OpenAI’s GPT-4.1, Assistify Pro Assistant transcends the ordinary to deliver a truly transformative user experience. 🔥
 
 ✨ **Features That Will Blow Your Mind** ✨
 
